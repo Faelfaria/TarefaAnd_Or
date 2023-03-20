@@ -1,0 +1,1 @@
+# TarefaAnd_Or
